@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-iptv-sub.github.io/does-opening-a-public-m3u-link-expose-your-ip-address/sitemap.xml
